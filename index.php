@@ -1,8 +1,8 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Quidbeuf
- * Date: 06/03/2018
- * Time: 10:22
- */
-phpinfo();
+include "./includes/header.php";
+
+echo "<h1>ceci est le corps de mon index.php</h1>";
+
+
+
+include "./includes/footer.php";

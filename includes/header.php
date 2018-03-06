@@ -1,7 +1,7 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Quidbeuf
- * Date: 06/03/2018
- * Time: 11:11
- */
+<header>
+    <nav>
+        <li><a ref="index.php?page=accueil">Accueil</a></li>
+        <li><a ref="index.php?page=inscription">Inscription</a></li>
+        <li><a ref="index.php?page=login">Login</a></li>
+    </nav>
+</header>

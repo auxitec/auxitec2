@@ -1,3 +1,9 @@
+<?php
+include "./functions/ClassAutoLoader.php";
+spl_autoload_register('ClassAutoLoader');
+?>
+
+
 <!DOCTYPE html>
 <html lang=""fr-FR">
     <head>
